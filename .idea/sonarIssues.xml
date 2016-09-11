@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="$USER_HOME$/Documents/Code/AD/ad-search-test/src/main/java/mergeTest/BaseMergerServerTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/Code/AD/ads-auction-service/ads-auction-lib/src/main/java/com/meituan/ads/auction/cpc/BaseAdsMerger.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/Code/AD/ads-auction-service/ads-auction-lib/src/main/java/com/meituan/ads/auction/cpc/DefaultCPCAdsMerger.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/Code/AD/ads-auction-service/ads-auction-lib/src/main/java/com/meituan/ads/auction/cpc/FixedRelevanceAdsMerger.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/Code/AD/ads-auction-service/ads-auction-lib/src/main/java/com/meituan/ads/auction/cpc/HotelCPCAdsMerger.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/Code/AD/ads-auction-service/ads-auction-lib/src/main/java/com/meituan/ads/auction/cpc/HybridCPCAdsMerger.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/Code/AD/ads-auction-service/ads-auction-lib/src/main/java/com/meituan/ads/auction/cpc/HybridFixedLambdaCPCAdsMerger.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/Code/AD/ads-auction-service/ads-auction-lib/src/main/java/com/meituan/ads/auction/cpc/IdenticalAdsMerger.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/Code/AD/ads-auction-service/ads-auction-lib/src/main/java/com/meituan/ads/auction/cpc/SearchRecommendMerger.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/Code/AD/ads-auction-service/ads-auction-lib/src/main/java/com/meituan/ads/auction/cpc/TopFixTransCtrConf.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/Code/AD/ads-auction-service/ads-auction-lib/src/main/java/com/meituan/ads/auction/cpc/TopFixedCPCAdsMerger.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/Code/AD/ads-auction-service/ads-auction-lib/src/main/java/com/meituan/ads/auction/cpc/TopFixedTransCtrCPCAdsMerger.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/Code/AD/ads-auction-service/ads-auction-lib/src/main/resources/auction-lib-others.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/Code/AD/ads-auction-service/service/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/Code/AD/ads-auction-service/service/src/main/java/com/meituan/ads/auction/service/Service.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/Code/AD/ads-auction-service/service/src/main/resources/beans/main-service.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/Code/AD/adsbs/sqlupdator/java/util_java_sqlupdator.sh">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/Code/AD/auction-service-without-lib/ads-auction-service/service/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/Code/AD/new-ads-auction-lib/auction-common/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/Code/AD/new-ads-auction-lib/auction-common/src/main/java/com/meituan/ads/auction/common/operation/impl/check/ResultCountCheckOp.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/Code/AD/new-ads-auction-lib/auction-hybrid-sieve/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/Code/AD/new-ads-auction-lib/auction-hybrid-sieve/src/main/java/com/meituan/ads/auction/hybridsieve/operation/intervene/MarryReserveConditionConf.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/Code/AD/new-ads-auction-lib/auction-hybrid-sieve/src/main/java/com/meituan/ads/auction/hybridsieve/operation/intervene/MarryReserveConditionOp.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/Code/AD/new-ads-auction-lib/auction-hybrid-sieve/src/main/java/com/meituan/ads/auction/hybridsieve/operation/score/TopFixedScoreConf.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/Code/AD/new-ads-auction-lib/auction-hybrid-sieve/src/main/resources/new-auction-lib-others.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/Code/AD/wordseg_release/wordseg/mac_nlptmseg_2.1/nlptmseg_c++/test/run.sh">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/Code/AD/wordseg_release/wordseg/mac_nlptmseg_2.1/nlptmseg_java/test/example.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/Code/AD/wordseg_release/wordseg/mac_nlptmseg_2.1/nlptmseg_python/test/example.py">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/GenData.py">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/GenNaiveBayesData.py">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/sparkdemo.hope">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/scala/business/GetRealCtrAndPredictCtr.scala">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/scala/business/TestSparkSQL.scala">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/scala/jar/GBDTModel.scala">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/scala/jar/GBTsModel.scala">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/scala/jar/LRWithLBFGS.scala">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/scala/jar/MainApp.scala">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/scala/jar/NaiveBayesModel.scala">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/scala/jar/RandomForestsModel.scala">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/scala/jar/SparkArchetype.scala">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/scala/jar/TestBayes.scala">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
